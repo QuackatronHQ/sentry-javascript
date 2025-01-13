@@ -6710,42 +6710,42 @@
   resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-10.4.6.tgz#952e8fd0ceafeffcc4eaf47effd67fb395844ae0"
   integrity sha512-KkezkZvU9poWaNq4L+lNvx+386hpOxPJkfXBBeSMrcqBOx8kVr36TGN2uYkF4Ta4zNu1KbCjmZbc0rhHSg296g==
   dependencies:
-    uid "2.0.2"
     iterare "1.2.1"
     tslib "2.7.0"
+    uid "2.0.2"
 
 "@nestjs/common@^8.0.0 || ^9.0.0 || ^10.0.0":
   version "10.4.7"
   resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-10.4.7.tgz#076cb77c06149805cb1e193d8cdc69bbe8446c75"
   integrity sha512-gIOpjD3Mx8gfYGxYm/RHPcJzqdknNNFCyY+AxzBT3gc5Xvvik1Dn5OxaMGw5EbVfhZgJKVP0n83giUOAlZQe7w==
   dependencies:
-    uid "2.0.2"
     iterare "1.2.1"
     tslib "2.7.0"
+    uid "2.0.2"
 
 "@nestjs/core@10.4.6":
   version "10.4.6"
   resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-10.4.6.tgz#797b381f12bd62d2e425897058fa219da4c3689d"
   integrity sha512-zXVPxCNRfO6gAy0yvEDjUxE/8gfZICJFpsl2lZAUH31bPb6m+tXuhUq2mVCTEltyMYQ+DYtRe+fEYM2v152N1g==
   dependencies:
-    uid "2.0.2"
     "@nuxtjs/opencollective" "0.3.2"
     fast-safe-stringify "2.1.1"
     iterare "1.2.1"
     path-to-regexp "3.3.0"
     tslib "2.7.0"
+    uid "2.0.2"
 
 "@nestjs/core@^8.0.0 || ^9.0.0 || ^10.0.0":
   version "10.4.7"
   resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-10.4.7.tgz#adb27067a8c40b79f0713b417457fdfc6cf3406a"
   integrity sha512-AIpQzW/vGGqSLkKvll1R7uaSNv99AxZI2EFyVJPNGDgFsfXaohfV1Ukl6f+s75Km+6Fj/7aNl80EqzNWQCS8Ig==
   dependencies:
-    uid "2.0.2"
     "@nuxtjs/opencollective" "0.3.2"
     fast-safe-stringify "2.1.1"
     iterare "1.2.1"
     path-to-regexp "3.3.0"
     tslib "2.7.0"
+    uid "2.0.2"
 
 "@nestjs/platform-express@10.4.6":
   version "10.4.6"
@@ -9965,7 +9965,6 @@
     "@types/unist" "*"
 
 "@types/history-4@npm:@types/history@4.7.8", "@types/history-5@npm:@types/history@4.7.8", "@types/history@*":
-  name "@types/history-4"
   version "4.7.8"
   resolved "https://registry.yarnpkg.com/@types/history/-/history-4.7.8.tgz#49348387983075705fe8f4e02fb67f7daaec4934"
   integrity sha512-S78QIYirQcUoo6UJZx9CSP0O2ix9IaeAXwQi26Rhr/+mg7qqPy8TzaxHSUut7eGjL8WmLccT7/MXf304WjqHcA==
@@ -28655,7 +28654,6 @@ react-is@^18.0.0:
     "@remix-run/router" "1.0.2"
 
 "react-router-6@npm:react-router@6.3.0", react-router@6.3.0:
-  name react-router-6
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/react-router/-/react-router-6.3.0.tgz#3970cc64b4cb4eae0c1ea5203a80334fdd175557"
   integrity sha512-7Wh1DzVQ+tlFjkeo+ujvjSqSJmkt1+8JO+T5xklPlgrh70y7ogx75ODRW0ThWhY7S+6yEDks8TYrtQe/aoboBQ==
@@ -31959,9 +31957,9 @@ tmp@^0.2.1, tmp@~0.2.1:
     rimraf "^3.0.0"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
